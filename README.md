@@ -4,4 +4,4 @@ This project analyzes retail sales data to uncover insights into customer behavi
 
 ## Key Features:
 
-- Discount Impact Analysis: Compared sales trends with and without discounts to assess their effectiveness.
+- ### [Discount Impact Analysis:] Compared sales trends with and without discounts to assess their effectiveness.
