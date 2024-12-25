@@ -4,4 +4,7 @@ This project analyzes retail sales data to uncover insights into customer behavi
 
 ## Key Features:
 
-- ### [Discount Impact Analysis:] Compared sales trends with and without discounts to assess their effectiveness.
+- Do Discounts Work? Yes, they significantly boost sales and attract more customers.
+- Seasonal Promotions Matter: The best-performing promotions vary by season, showing timing is crucial.
+- Payment Preferences: Credit cards are the go-to choice for high-value transactions.
+- Top Cities Shine: Certain cities lead in sales and show unique seasonal trends.
